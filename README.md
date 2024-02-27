@@ -1,2 +1,2 @@
-# .github
-README for QOS.
+# Quality Open Source - QOS
+## About
